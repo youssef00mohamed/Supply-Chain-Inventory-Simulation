@@ -19,7 +19,7 @@ This Python project simulates inventory dynamics in a supply chain environment t
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your_username/supply-chain-inventory-simulation.git
+   git clone https://github.com/youssef00mohamed/supply-chain-inventory-simulation.git
    cd supply-chain-inventory-simulation
    ```
    
