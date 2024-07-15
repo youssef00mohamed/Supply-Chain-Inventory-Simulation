@@ -32,7 +32,7 @@ This Python project simulates inventory dynamics in a supply chain environment t
 3. **Run the simulation:**
 
    ```bash
-   python inventory simulation.py
+   jupyter notebook inventory simulation.ipynb
    ```
 
 4. **View simulation results:**
